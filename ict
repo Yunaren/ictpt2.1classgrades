@@ -2,4 +2,6 @@
  string     n    =  "macasa_mararagan"  ;
  srting    s    =    "g9 St. Lawrence";
  string    g   =    "grades"
+ int       mt1   =   40
+ int       mt2   =    30 
  
